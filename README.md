@@ -112,3 +112,7 @@ Współautor: https://ieeexplore.ieee.org/document/11660689
 ### Film na YouTube z aplikacji
 Link: https://youtu.be/jaS-MIjHSUU
 
+**Karolina Sumowska**  
+Rok: 2026
+Uniwersytet Mikołaja Kopernika w Toruniu  
+*Projekt zrealizowany w ramach pracy magisterskiej*
