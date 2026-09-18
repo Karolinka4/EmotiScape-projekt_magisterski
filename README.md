@@ -33,6 +33,22 @@ uruchomić przy użyciu kompatybilnego zestawu VR.
 -   Virtual Reality
 
 ------------------------------------------------------------------------
+## Wizualna część aplikacji
+
+logo: <img width="692" height="363" alt="image" src="https://github.com/user-attachments/assets/61fcc32e-7bc2-4439-af3e-d923834669f2" />
+Pomieszczenie stratowe: <img width="879" height="508" alt="image" src="https://github.com/user-attachments/assets/eb801755-c263-4722-ae99-4dba0a202cd6" />
+<img width="874" height="482" alt="image" src="https://github.com/user-attachments/assets/2c783d70-a54e-4689-a1e1-ea412cbcabf3" />
+Szklarnia: <img width="932" height="774" alt="image" src="https://github.com/user-attachments/assets/e6e92f49-4d76-4275-9603-7860d85ff200" />
+<img width="931" height="516" alt="image" src="https://github.com/user-attachments/assets/18ad3d01-ad91-42c5-af27-4fe396543f2d" />
+Wieża: <img width="716" height="392" alt="image" src="https://github.com/user-attachments/assets/0806ad4c-8366-4245-81da-cdd21ce171be" />
+<img width="716" height="384" alt="image" src="https://github.com/user-attachments/assets/07141465-cd46-42d2-8cb5-53c1acc36929" />
+Chatka: <img width="789" height="621" alt="image" src="https://github.com/user-attachments/assets/7e1621ab-570e-4ba3-9669-e52997534902" />
+<img width="788" height="444" alt="image" src="https://github.com/user-attachments/assets/9b262511-2b34-4fe0-99f7-cd6a17faf1d9" />
+
+
+
+
+------------------------------------------------------------------------
 
 ## Jak uruchomić projekt?
 
