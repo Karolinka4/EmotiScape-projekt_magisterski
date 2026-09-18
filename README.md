@@ -108,3 +108,7 @@ Projekt stworzony w Unity z wykorzystaniem VR.
 Object tracking to analyze facial expressions in Virtual Reality: designing application to estimate user emotions
 IEEE, 2026
 Współautor: https://ieeexplore.ieee.org/document/11660689
+
+### Film na YouTube z aplikacji
+Link: https://youtu.be/jaS-MIjHSUU
+
