@@ -35,7 +35,7 @@ uruchomić przy użyciu kompatybilnego zestawu VR.
 ------------------------------------------------------------------------
 ## Wizualna część aplikacji
 
-###Film na YouTube z aplikacji: https://youtu.be/jaS-MIjHSUU
+<h3>Film na YouTube z aplikacji: https://youtu.be/jaS-MIjHSUU</h3>
 
 ### Logo
 
