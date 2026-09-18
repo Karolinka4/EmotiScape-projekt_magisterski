@@ -1,8 +1,14 @@
 # EmotiScape
+# Praca Magisterska – Aplikacja VR w Unity
+
+**Autor:** Karolina Sumowska  
+**Uczelnia:** Uniwersytet Mikołaja Kopernika w Toruniu  
+**Kierunek:** Architektura informacji  
+**Temat pracy magisterskiej:** Emocje w przestrzeni wirtualnej. Projekt i badanie VR w kontekście reakcji emocjonalnych użytkowników
 
 > Immersyjny projekt VR stworzony w Unity.
 
-EmotiScape to projekt wykorzystujący technologię Virtual Reality,
+Opis: EmotiScape to projekt wykorzystujący technologię Virtual Reality,
 stworzony przy użyciu silnika Unity.
 
 ------------------------------------------------------------------------
