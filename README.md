@@ -103,3 +103,8 @@ Odkrywaj. Doświadczaj. Zanurz się.
 
 Projekt stworzony w Unity z wykorzystaniem VR.
 
+
+### Publikacja naukowa
+Object tracking to analyze facial expressions in Virtual Reality: designing application to estimate user emotions
+IEEE, 2026
+Współautor: https://ieeexplore.ieee.org/document/11660689
